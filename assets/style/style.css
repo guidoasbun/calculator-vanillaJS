@@ -11,7 +11,12 @@ body {
     background: linear-gradient(to bottom, #fffc00, #ffffff);
 }
 
+.card-img-top {
+    width: 105px;
+}
+
 .calculator {
+    align-items: center;
     background: white;
     width: 400px;
     border-radius: 15px;
